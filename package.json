@@ -1,0 +1,31 @@
+{
+  "name": "devbot",
+  "version": "1.0.0",
+  "description": "A dev tool to help you in your bot developement on discord",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asthriona/DevBot.git"
+  },
+  "keywords": [
+    "Dev",
+    "bot",
+    "discord",
+    "discord.js",
+    "developement",
+    "js"
+  ],
+  "author": "Asthriona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asthriona/DevBot/issues"
+  },
+  "homepage": "https://github.com/Asthriona/DevBot#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1"
+  }
+}
